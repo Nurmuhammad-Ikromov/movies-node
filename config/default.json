@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb+srv://Ikromov:admin123@cluster0.nghj5wz.mongodb.net/",
+  "port": "8000",
+  "requiresAuth": true
+}
